@@ -10,12 +10,10 @@ This document describes the business requirements gathered from the DriverPass c
 
 This document builds on the business requirements by presenting the system design. It includes UML diagrams and technical requirements that show how the DriverPass system could be designed to meet the client's needs.
 
----
 
-## Reflection
+## Reflection 
 
 #### Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-
 The client for this project was DriverPass, a company that wanted a better way to help students prepare for their DMV driving tests. The goal was to design a web-based system that allows customers to register for services, schedule driving lessons, take online practice tests, and access training materials. The system also helps employees manage appointments, customer information, reports, and user accounts.
 
 #### What did you do particularly well?
